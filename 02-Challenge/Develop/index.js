@@ -1,7 +1,7 @@
 // // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const markdownFunctions = require('./utils/generateMarkdown.js');
-const writeToFile = require('./utils/generate-page.js');
+const writeToFile = require('./utils/generatepage.js');
 
 // TODO: Create a function to initialize app and create questions
 const init = projectData => {
